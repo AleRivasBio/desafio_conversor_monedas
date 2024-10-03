@@ -1,4 +1,4 @@
-# desafio_decodificador_monedas
+# desafio_conversor_monedas
 Decodificador de monedas
 El codigo emplea 2 clases y hace uso de la herramienta gson y json para poder trabajar con una API provista o planteada por el equipo de 
 Alura Latam. En este caso se hace la petición de que tipo de moneda convertir y a que tipo de moneda de sudamerica se busca convertir. 
